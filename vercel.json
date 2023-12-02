@@ -1,0 +1,7 @@
+{
+  "routes": [
+    { "src": "/a-tech", "dest": "app/page.tsx" },
+    { "src": "/products", "dest": "app/page.tsx" },
+    { "src": "/team-page", "dest": "app/page.tsx" }
+  ]
+}

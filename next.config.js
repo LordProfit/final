@@ -2,7 +2,6 @@
 const nextConfig = {}
 
 module.exports = {
-  target: "serverless",
   trailingSlash: true, // Optional: Add trailing slashes to your URLs for better compatibility with Next.js
   zones: [
     {
