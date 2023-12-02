@@ -1,0 +1,9 @@
+[submodule "team-page"]
+	path = team-page
+	url = git@github.com:LordProfit/team-page.git
+[submodule "products"]
+	path = products
+	url = git@github.com:LordProfit/products.git
+[submodule "ATech-Blog"]
+	path = ATech-Blog
+	url = git@github.com:LordProfit/ATech-Blog.git
